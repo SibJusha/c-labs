@@ -1,0 +1,21 @@
+TEXT:
+6 3 1
+DELETE:
+5
+8
+LEVEL:
+
+TEXT:
+gat get gut
+DELETE:
+gut
+
+TEXT:
+6 3 1 5 8 7 9 6 3 1
+DELETE:
+5
+8
+LEVEL:
+2
+
+

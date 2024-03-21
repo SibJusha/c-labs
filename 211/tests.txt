@@ -1,0 +1,14 @@
+(10+(f+fd)+3) no
+(2+(23+8)) yes
+23+f) no
+23 yes
+((32+fj)+fji) yes
+(1+(fsd+(j+a) no
+(d+a)(2+f) no
+(121+(32+((3+3)+4))) yes
+((a+10)+(3f)) no
+
+2
+v 5
+var 1
+(var+var)

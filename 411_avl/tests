@@ -1,0 +1,27 @@
+TEXT:
+6 3 1 5 8 7 9 6 3 1
+DELETE:
+5
+8
+LEVEL:
+2
+
+no balance
+TEXT:
+s r q p o n m l k j i h g f e d c b a t ka 0
+DELETE:
+l
+LEVEL:
+0
+
+TEXT:
+a b c d e f g j k
+DELETE:
+f
+LEVEL:
+0
+
+TEXT:
+DELETE:
+LEVEL:
+111
